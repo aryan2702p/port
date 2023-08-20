@@ -2,7 +2,7 @@ import React from 'react'
 import './about.css'
 import ME from '../../assets/me.jpg'
 import { BsFillAwardFill } from 'react-icons/bs'
-import {FaUsers} from 'react-icons/fa'
+//import {FaUsers} from 'react-icons/fa'
 import {VscProject} from 'react-icons/vsc'
 
 const about = () => {
@@ -21,23 +21,25 @@ const about = () => {
             <article className="about__card">
               <BsFillAwardFill />
               <h5>Experience</h5>
-              <small>3+ Years Work</small>
+              <small>2+ Years Work</small>
             </article>
-            <article className="about__card">
+            {/* <article className="about__card">
               <FaUsers />
               <h5>clients</h5>
               <small>10+ Clients</small>
-            </article>
+            </article> */}
             <article className="about__card">
               <VscProject />
               <h5>Projects</h5>
-              <small>20+ Projects</small>
+              <small>10+ Projects</small>
             </article>
           </div>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing
-             elit. Corporis non, odio ullam quis, obcaecati, at
-              tenetur molestiae labore laborum laboriosam enim et porro 
-              accusantium alias deserunt magnam quas explicabo quasi!</p>
+          <p>Hey there! I'm Aryan Patel, a passionate and driven computer science student currently pursuing my degree at
+             JIIT Noida. My journey into the world of coding began with curiosity and has now evolved into a true 
+             love for turning complex problems into elegant solutions. Whether it's diving into algorithms or collaborating on 
+             exciting projects, I thrive on the challenges that the field offers. With a deep appreciation for continuous learning
+              and a strong foundation in computer science, I'm excited to contribute my skills and make a meaningful impact in
+               the tech community.</p>
               <a href="#contact" className='btn btn'>Let's Talk</a>
         </div>
       </div>

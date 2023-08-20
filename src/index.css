@@ -37,7 +37,7 @@ body
     background: var(--color-bg);
     color: var(--color-white);
     line-height: 1.7;
-    background-image: url('./assets/bgimg.png');
+    background-image: url('./assets/dark.jpg');
 }
 
 
@@ -120,6 +120,8 @@ img{
     width: 100%;
     object-fit: cover;
 }
+
+
 
 
 
