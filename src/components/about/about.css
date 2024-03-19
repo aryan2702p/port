@@ -13,6 +13,7 @@
     background: linear-gradient(45deg, transparent, var(--color-primary), transparent);
     display: grid;
     place-items: center;
+    object-fit: cover;
 }
 
 .about__me_image
@@ -20,6 +21,9 @@
     border-radius: 2rem;
     overflow: hidden;
     transform: rotate(10deg);
+    object-fit:cover;
+    height: 100%;
+    width: 100%;
 }
 
 .about__me_image:hover{

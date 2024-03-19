@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import ME from '../../assets/me.jpg'
+import ME from '../../assets/anime.jpeg'
 import { BsFillAwardFill } from 'react-icons/bs'
 //import {FaUsers} from 'react-icons/fa'
 import {VscProject} from 'react-icons/vsc'

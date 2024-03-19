@@ -1,6 +1,6 @@
 import React from 'react'
 import './testimonial.css'
-import AVTR from '../../assets/testimonial.png'
+import AVTR from '../../assets/character-with-horns-red-cape_1340-28778.avif'
 
 import { Pagination } from 'swiper';
 
