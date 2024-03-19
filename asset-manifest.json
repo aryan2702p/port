@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/port/static/css/main.61c87e03.css",
+    "main.js": "/port/static/js/main.cba5ab23.js",
+    "static/media/Resume.pdf": "/port/static/media/Resume.740576d52459caa1d9ac.pdf",
+    "static/media/dsw.jpg": "/port/static/media/dsw.b6403dee6e74670c98d0.jpg",
+    "static/media/dark.jpg": "/port/static/media/dark.07ce4f3df6030d2859d1.jpg",
+    "static/media/me.jpg": "/port/static/media/me.61d96485ba90f2dcf1c9.jpg",
+    "static/media/character-with-horns-red-cape_1340-28778.avif": "/port/static/media/character-with-horns-red-cape_1340-28778.39b1afe0f020554041c6.avif",
+    "index.html": "/port/index.html",
+    "main.61c87e03.css.map": "/port/static/css/main.61c87e03.css.map",
+    "main.cba5ab23.js.map": "/port/static/js/main.cba5ab23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61c87e03.css",
+    "static/js/main.cba5ab23.js"
+  ]
+}
